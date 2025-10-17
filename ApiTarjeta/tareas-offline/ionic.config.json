@@ -1,0 +1,7 @@
+{
+  "name": "tareas-offline",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
